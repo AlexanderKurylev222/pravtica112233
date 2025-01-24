@@ -1,3 +1,6 @@
+Задание 3
+https://www.figma.com/design/zvDbNXyl26qpUqiPD5kJka/Untitled?node-id=0-1&p=f&t=GCEWGOwCZ956prlV-0
+
 Задание 5
 1. Вывести покупателей с количеством осуществленных покупок:
 sql
